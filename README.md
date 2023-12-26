@@ -16,3 +16,5 @@ Following vagrant boxes are built from most popular based box ```ubuntu/#{code_n
 * disabled apt's periodic update
 
 ## Ubuntu 14.04 is not supported
+
+> This reporitory for viewing vagrantfile
